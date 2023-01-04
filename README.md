@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🧑‍🎓 Conoce mi perfil
-Soy estudiante avanzado de la carrera de Arquitectura y Urbanismo pero siempre me interesó la programación, este último tiempo decidí centrarme y especializarme en desarrollo web. Aunque parecen carreras muy diferentes, en la práctica encontré muchas similitudes, y como estudiante de arquitectura adquirí muchas softskills. Como por ejemplo: el trabajo en equipo con comunicación constante, aprender a liderar equipos, también adaptarme a cambios de último momento y, sobre todo, a planificar y organizar proyectos para cumplir los objetivos en el tiempo solicitado.
+Soy estudiante avanzado de la carrera de Arquitectura y Urbanismo pero siempre me interesó la programación, este último tiempo decidí centrarme y especializarme en desarrollo web. Aunque parecen carreras muy diferentes, en la práctica encontré muchas similitudes y, como estudiante de arquitectura, adquirí muchas softskills. Como por ejemplo: el trabajo en equipo con comunicación constante, aprender a liderar equipos, también adaptarme a cambios de último momento y, sobre todo, a planificar y organizar proyectos para cumplir los objetivos en el tiempo solicitado.
 ## 🌱 Actualmente:
 Me encuentro finalizando el bootcamp Full Stack Web Developer de Soy Henry. Este bootcamp me dejó grandes conocimientos técnicos, pero lo más importante, conocí grandes personas que me contagiaron sus ganas de superarse y seguir creciendo como profesionales y como personas.
 ## 🌠 Espectativas para este año:
