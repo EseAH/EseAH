@@ -22,7 +22,7 @@ También, por mi cuenta, me encuentro desarrollando proyectos personales para se
 ## 🌠 Espectativas para este año:
 Espero seguir aprendiendo del mundo de la programación y la industria IT. Deseo seguir afianzando los conocimientos adquiridos y poder sumar otros nuevos para crecer como profesional. También estoy buscando la oportunidad de sumarme a un proyecto que me permita demostrar mis conocimientos y lo que puedo aportar por fuera de lo técnico.
 ## ✅ Tecnologías y lenguajes que domino:
-## HTML | CSS | JS | REACT.JS | REACT NATIVE | NODE.JS | EXPRESS | SEQUELIZE | POSTGRESQL | MONGOOSE | MONGODB
+## HTML | CSS | JS | REACT.JS | ASTRO.JS | REACT NATIVE | NODE.JS | POSTGRESQL | MONGODB | LINUX
 ## ⤵️ Contacto:
-📩 email: ese.aquino@gmail.com
+📩 email: ese.aquino.h@gmail.com
 👤 LinkedIn: https://www.linkedin.com/in/esequiel-aquino-85358823b
